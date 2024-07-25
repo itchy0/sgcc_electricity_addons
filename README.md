@@ -2,12 +2,7 @@
 
 添加微信通知后，我想这基本上就是这个插件的最终形态了，docker镜像压缩到300MB，后续可能只会在网站变动或者出问题才会更新，再次感谢大家的Star。
 
-### 支付宝&微信 打赏码
 
-<p align="center">
-<img src="assets/Alipay.png"  width=200 style="margin-right: 70px";/>
-<img src="assets/WeiChatpay.png"  width=200/>
-</p>
 
 # ⚡️国家电网电力获取
 
